@@ -66,6 +66,6 @@ Please ensure your code follows the project's coding style and includes appropri
 
 ## Acknowledgments
 
--This app was developed using Flutter, an open-source UI software development toolkit created by Google.
+- This app was developed using Flutter, an open-source UI software development toolkit created by Google.
 
--Special thanks to the Flutter community for their continuous support and contributions.
+- Special thanks to the Flutter community for their continuous support and contributions.
